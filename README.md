@@ -1,7 +1,7 @@
 # ColorWheelAnalyzer
 #### Gamut masks are really neato. 
 #### Wouldn't it be nice to have a way to visualize the color space of an image?
-#### Well, funny you mention it...
+#### Now you can!
 
 ![Goblin](https://raw.githubusercontent.com/aztecman/ColorWheelAnalyzer/main/goblin_smaller.png)
 ![Goblin](https://raw.githubusercontent.com/aztecman/ColorWheelAnalyzer/main/goblin_analysis2.png)
